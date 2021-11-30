@@ -138,10 +138,6 @@
           <string>Label</string>
           <string>RR1sel</string>
         </entry>
-        <entry>
-          <string>Bits</string>
-          <int>2</int>
-        </entry>
       </elementAttributes>
       <pos x="860" y="620"/>
     </visualElement>
