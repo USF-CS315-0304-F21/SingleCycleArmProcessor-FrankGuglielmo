@@ -189,10 +189,6 @@
           <string>Bits</string>
           <int>32</int>
         </entry>
-        <entry>
-          <string>direction</string>
-          <direction>right</direction>
-        </entry>
       </elementAttributes>
       <pos x="460" y="380"/>
     </visualElement>
